@@ -1,0 +1,51 @@
+p {
+  color: goldenrod;
+  margin: 5px;
+  cursor: pointer;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+}
+
+p{
+  display: none;
+}
+body {
+  text-align: center;
+}
+#heading {
+  color: maroon;
+}
+h1{
+   font-family: 'Lobster', cursive;
+  font-size: 650%;
+}
+h3{
+  font-family: 'Abel', sans-serif;
+  font-size: 300%;
+}
+h2{
+  color: dodgerblue;
+  font-family: 'Slabo 27px', serif;
+  font-weight: bold;
+}
+#questions {
+  background-color: #ECEDDC;
+  width: 800px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+body {
+  background:
+linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0,
+linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0,
+linear-gradient(315deg, #ECEDDC 25%, transparent 25%),
+linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+background-size: 100px 100px;
+background-color: silver;
+}
